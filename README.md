@@ -1,4 +1,4 @@
-# effective-funicular
+# 1st DS projects
 There are four datasets:
 - bank-additional-full.csv(changed to bank-marketting-data) with all examples (26874) and 20 inputs,very close to the data analyzed in [Moro et al., 2014]
 - bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs. 
